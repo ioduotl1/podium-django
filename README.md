@@ -43,3 +43,4 @@ refer to the [Beginner's Guide]( BEGINNERS.md#getting-the-project-running)
 ## Contributing ##
 [Submit an issue](https://github.com/pyatl/podium-django/issues) or see our
  [Contributing Guidelines](CONTRIBUTING.md) for pull requests.
+-Reviewed by Isabelle Odutola
